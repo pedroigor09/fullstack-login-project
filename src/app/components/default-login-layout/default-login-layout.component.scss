@@ -44,6 +44,25 @@ main {
         justify-content: center;
         width: 100%;
         gap: 30px;
+
+        .divider {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 20px;
+            width: 100%;
+
+            font-size: 14px;
+            color: #ff7605;
+            font-weight: 400;
+            text-transform: uppercase;
+
+            div {
+                flex-grow: 1;
+                height: 2px;
+                background-color: #ff860d;
+            }
+        }
         
         button {
             width: 100%;
@@ -53,6 +72,7 @@ main {
             border: none;
             background-color: transparent;
             padding: 12px 24px;
+            cursor: pointer;
 
             &.btn-primary {
                 background-color: $primary-color;
