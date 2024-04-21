@@ -1,27 +1,60 @@
-# FullstackLoginProject
+<h1 align="center"> UserVault Project: Login API </h1>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.5.
+<p align="center">
+I've developed a login website using Angular for the frontend and Java for the backend. The project provides a secure authentication experience for users, featuring custom login and signup pages. I leveraged services like Angular Router for page navigation and AuthGuard to protect specific routes from unauthorized access. The frontend showcases a responsive and intuitive layout, with login and signup forms validated using Angular Forms. On the backend, I implemented user authentication and validation logic, utilizing techniques like JWT (JSON Web Tokens) for authentication and authorization.
+</p>
 
-## Development server
+<p align="center">
+  <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">License</a>
+</p>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+<p align="center">
+  <img alt="License" src="https://media1.tenor.com/m/16OA1pbdWYYAAAAC/typehero-typescript.gif">
+</p>
 
-## Code scaffolding
+<br>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<p align="center">
+  <img alt="calendario da copa" src="https://i.imgur.com/L63Biq5.png" width="100%">
+</p>
 
-## Build
+## 🚀 Tecnologias
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+The project was developed using the following technologies:
 
-## Running unit tests
+- Angular
+- Java
+- Spring Boot
+- Spring Security
+- Jakarta Servlet
+- Insomnia
+- H2 Database
+- JPA (Java Persistence API)
+- Lombok
+- Maven
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## 💻 Project
 
-## Running end-to-end tests
+🛠️ <h3>Efficient Backend Architecture:<h3>
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+I've developed the backend of a user authentication API using Spring Boot. Leveraging Java, Spring, and Spring Security, the API provides secure login and registration endpoints. The AuthController class handles user authentication and registration, utilizing password encryption and token generation for secure user access.
 
-## Further help
+🚀 <h3>UserVault Project Bio:<h3>
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Introducing UserVault, a user authentication management system developed by me. Combining Angular and Java, UserVault provides a comprehensive solution for user login and registration, ensuring security and convenience.
+
+## 🔖 Layout
+
+🤩 
+⛏️ My Linkedin: [HERE](https://www.linkedin.com/in/pedroigorcc/).
+
+## :memo: Licença
+
+This project is licensed under the MIT license.
+
+---
+
+Made with ♥ by Pedro Igor, currently studying Software Engineering/Computer Science.
