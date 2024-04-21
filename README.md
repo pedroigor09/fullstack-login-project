@@ -18,7 +18,7 @@ I've developed a login website using Angular for the frontend and Java for the b
 <br>
 
 <p align="center">
-  <img alt="calendario da copa" src="https://i.imgur.com/L63Biq5.png" width="100%">
+  <img alt="calendario da copa" src="https://i.imgur.com/ooYxtKr.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
