@@ -1,4 +1,4 @@
-<h1 align="center"> UserVault Project: Login API </h1>
+<h1 align="center"> UserVault FRONTEND: Login API </h1>
 
 <p align="center">
 I've developed a login website using Angular for the frontend and Java for the backend. The project provides a secure authentication experience for users, featuring custom login and signup pages. I leveraged services like Angular Router for page navigation and AuthGuard to protect specific routes from unauthorized access. The frontend showcases a responsive and intuitive layout, with login and signup forms validated using Angular Forms. On the backend, I implemented user authentication and validation logic, utilizing techniques like JWT (JSON Web Tokens) for authentication and authorization.
